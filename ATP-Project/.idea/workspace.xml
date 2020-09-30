@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f84ee62-0573-4862-8bf0-dd6d26cc0918" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exit</find>
+      <find>loadG</find>
+      <find>mazeDi</find>
+      <find>MazeDisplayer</find>
+      <find>solve</find>
+      <find>KeyPressed</find>
+      <find>Init</find>
+      <find>end</find>
+      <find>gameFinish</find>
+      <find>Sol</find>
+      <find>move</find>
+      <find>upd</find>
+      <find>noti</find>
+      <find>up</find>
+      <find>upda</find>
+      <find>chan</find>
+      <find>abo</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1XGRa0HZJ5JERR3l1wvTtP0qLxX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560272104980" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/images" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yasmin\Desktop\Maze-master\ATP-Project-PartC\resources\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\neta\Downloads\ATP-Project-PartC\src\View" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.Main" />
+      <module name="ATP-Project-PartC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f84ee62-0573-4862-8bf0-dd6d26cc0918" name="Default Changelist" comment="" />
+      <created>1559852782527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559852782527</updated>
+      <workItem from="1559852788517" duration="2157000" />
+      <workItem from="1559902609496" duration="10431000" />
+      <workItem from="1560175593526" duration="888000" />
+      <workItem from="1560176528383" duration="1769000" />
+      <workItem from="1560178362565" duration="1758000" />
+      <workItem from="1560180182970" duration="1763000" />
+      <workItem from="1560182006438" duration="1766000" />
+      <workItem from="1560183813039" duration="1777000" />
+      <workItem from="1560185628311" duration="1775000" />
+      <workItem from="1560187441125" duration="911000" />
+      <workItem from="1560262207931" duration="1704000" />
+      <workItem from="1560264068995" duration="1720000" />
+      <workItem from="1560265858283" duration="1766000" />
+      <workItem from="1560267691645" duration="1756000" />
+      <workItem from="1560269501401" duration="1763000" />
+      <workItem from="1560271312628" duration="864000" />
+      <workItem from="1560275488313" duration="437000" />
+      <workItem from="1560436342567" duration="1696000" />
+      <workItem from="1560438208465" duration="1062000" />
+      <workItem from="1560516082412" duration="256000" />
+      <workItem from="1580670507251" duration="202000" />
+      <workItem from="1601415336467" duration="6136000" />
+      <workItem from="1601488684258" duration="905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1601415392018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601415392018" />
+    <state width="1493" height="46" key="GridCell.Tab.0.bottom" timestamp="1601490244231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="46" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601490244231" />
+    <state width="1493" height="46" key="GridCell.Tab.0.center" timestamp="1601490244231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="46" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601490244231" />
+    <state width="1493" height="46" key="GridCell.Tab.0.left" timestamp="1601490244231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="46" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601490244231" />
+    <state width="1493" height="46" key="GridCell.Tab.0.right" timestamp="1601490244231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="46" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601490244231" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1601415393451">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601415393451" />
+  </component>
+</project>
